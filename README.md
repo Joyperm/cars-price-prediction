@@ -1,7 +1,15 @@
-###  Cars’ price regression project 01
+## Project Description:
+- This project aims to develop a predictive model for estimating used car prices using machine learning techniques. The model leverages feature engineering, selection, and scaling to improve accuracy. I employ linear regression, polynomial regression, and Lasso regression algorithms to analyze the relationships between car attributes (e.g., mileage, age, make, model) and market price.
+
+### Key Objectives:
+- Explore and preprocess the dataset using feature scaling (Min-Max Scaler) and selection techniques.
+- Develop and compare the performance of linear, polynomial, and Lasso regression models.
+- Evaluate the impact of feature engineering on model accuracy.
+- Identify the most influential factors affecting used car prices.
 
 References
 - https://www.kaggle.com/code/starlitlolith/train-and-evaluate-a-regression-model-4
+
 
 
 #### 2.  Library import and data preparation
